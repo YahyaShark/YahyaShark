@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Choiru Yahya Firdaus<br>NIM: L200234172<br>Address: Grajegan 01/02, Tawangsari, Sukoharjo<br>Hobbies: Reading novels and comics, listening to old rock music<br>Fun Fact: An espresso with three shots tastes bland to me
+Just IT Student<br>Hobbies: Reading novels and comics, listening to old rock music<br>Fun Fact: An espresso with three shots tastes bland to me
 
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
 
