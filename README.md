@@ -12,7 +12,7 @@ Just IT Student<br>Hobbies: Reading novels and comics, listening to old rock mus
 ![](https://github-readme-stats.vercel.app/api?username=YahyaShark&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)</br>
 ![](https://nirzak-streak-stats.vercel.app/?user=YahyaShark&theme=gotham&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaShark&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
-[blue_navy_repo]: https://github-readme-stats.vercel.app/api/pin/?username=YahyaShark&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy
+[blue_navy_repo](https://github-readme-stats.vercel.app/api/pin/?username=YahyaShark&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YahyaShark&icon=0&color=0)](https://visitcount.itsvg.in)
