@@ -17,6 +17,6 @@ Just IT Student<br>Hobbies: Reading novels and comics, listening to old rock mus
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YahyaShark&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Visits Badge](https://badges.pufler.dev/visits/YahyaShark/badge-it)](https://badges.pufler.dev)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYahyaShark&label=VISITOR&labelColor=%23ffc0cb&countColor=%23000000&style=plastic&labelStyle=upper)
 
 ---
